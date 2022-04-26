@@ -1,0 +1,8 @@
+
+		int resultado = num % 2;
+		if(num % 2 == 0) {
+			System.out.println("Numero é um numero par!" + resultado);
+		}
+		else {
+			System.out.println("Numero impar!" + resultado);
+		}
